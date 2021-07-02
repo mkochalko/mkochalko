@@ -1,7 +1,7 @@
 ### Hello World 👋
-I am a fullstack software engineer from Denver
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+I am a Software engineer from Denver
+- 🔭 Currently working as a Data Engineer with PagerDuty 
+- 🌱 Learning about Data Warehousing and Dimentional Modeling within Business Systems
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/mkochalko/)

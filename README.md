@@ -4,7 +4,9 @@ I am a Software engineer from Denver
 - 🌱 Learning about Data Warehousing and Dimentional Modeling within Business Systems
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/mkochalko/)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mkochalko/)
+
 <br>
 <br>
 ## Expertise
